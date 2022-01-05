@@ -98,6 +98,7 @@ body {
 .cards {
     display: flex;
     flex-wrap: wrap;
+    justify-content: space-around;
     gap: 64px;
     text-align: center;
     color: #787a7c;
