@@ -108,10 +108,7 @@ body {
 .card {
     width: 200px;
 }
-.card img {
-    border: 3px solid #3882F6;
-    border-radius: 16px;
-}
+
 
 .quote {
     display: flex;
