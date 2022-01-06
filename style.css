@@ -25,9 +25,15 @@ body {
     padding: 16px 0;
 }
 
-.links {
+.header .links {
     display: flex;
     gap: 16px;
+}
+
+a {
+    font-size: 18px;
+    color: #E5E7EB;
+    text-decoration: none;
 }
 
 .logo {
@@ -64,8 +70,7 @@ body {
     font-weight: 900;
 }
 
-.secondaryhero,
-.links {
+.secondaryhero {
     font-size: 18px;
     color: #E5E7EB;
 }
